@@ -4,6 +4,8 @@ Diaporama plein écran de photos et vidéos, affiché dans le navigateur.
 On lui donne le chemin d'un dossier ; un petit serveur local Python sert la page.
 Un seul fichier Python, aucune dépendance.
 
+![Le diaporama avec le panneau de réglages ouvert](docs/screenshot.png)
+
 ## Installation (Windows)
 
 1. Installer « Python 3 » depuis le Microsoft Store (une seule fois).
